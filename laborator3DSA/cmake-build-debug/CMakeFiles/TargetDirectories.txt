@@ -1,0 +1,3 @@
+C:/Users/Denisa/CLionProjects/laborator3DSA/cmake-build-debug/CMakeFiles/laborator3DSA.dir
+C:/Users/Denisa/CLionProjects/laborator3DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Denisa/CLionProjects/laborator3DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
